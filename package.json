@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "chart.js": "^0.3.24",
+    "chart.js": "*",
     "react": "^16.8.3",
     "react-chartjs-2": "^2.7.4",
     "react-dom": "^16.8.3",
